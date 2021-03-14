@@ -192,6 +192,48 @@ MonoBehaviour:
     - Locale-fr
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
+  - m_GUID: 3fcb7e9e3083d354ba2bf679aefc9c4d
+    m_Address: Buttons_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ef5dbe287b51221419270ae1f16e8adb
+    m_Address: Critters_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f0f54f9487d95ad4cbfcfbd25fe11817
+    m_Address: Actors_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 83b0f57570c99a8449047acdb4fc0905
+    m_Address: Interactions_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6b2356c729e43554f8c73107e37371df
+    m_Address: Inventory Item Action_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5c42b55fafabea84ca43eed00f258509
+    m_Address: Inventory Item Description_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: bffab80dc16c4464b92b2e97b6a1964c, type: 2}
   m_SchemaSet:

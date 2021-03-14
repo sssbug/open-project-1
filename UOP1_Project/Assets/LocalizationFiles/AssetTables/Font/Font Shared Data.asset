@@ -38,6 +38,7 @@ MonoBehaviour:
           m_TableCodes:
           - en
           - fr
+          - tr
         m_TypeString: UnityEngine.Font, UnityEngine.TextRenderingModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
     00000001:

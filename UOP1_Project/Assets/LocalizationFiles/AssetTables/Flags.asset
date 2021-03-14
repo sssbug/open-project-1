@@ -16,6 +16,7 @@ MonoBehaviour:
   m_Tables:
   - {fileID: 11400000, guid: 4561f7c0128574dc58b83aca6aa228e8, type: 2}
   - {fileID: 11400000, guid: 0ed01caa4e5a746de8077e7bb66412e0, type: 2}
+  - {fileID: 11400000, guid: 1480c04778d42604fac69817b5061f63, type: 2}
   m_Extensions: []
   m_Group: Asset Table
   references:

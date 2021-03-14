@@ -45,6 +45,20 @@ MonoBehaviour:
     - Locale-fr
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
+  - m_GUID: 2925f175acb3fa14492c08659bb1c2f1
+    m_Address: Font_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1480c04778d42604fac69817b5061f63
+    m_Address: Flags_tr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: bffab80dc16c4464b92b2e97b6a1964c, type: 2}
   m_SchemaSet:
